@@ -1,5 +1,7 @@
 # FirstAng
 
+A angular template using directives to show and iterate elements.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.
 
 ## Development server
